@@ -1,3 +1,7 @@
+// But :	Programme qui dessine des formes aux dimensions diverses, pleines ou vides, selon les choix que l'utilisateur fait dans les menus	   
+// Auteur :	Harley Lounsbury
+// Date :  17 Octobre 2018
+
 // Directive pour assurer que ce fichier est inclus seulement 1 fois à compilation.
 #pragma once
 
